@@ -1,0 +1,596 @@
+<!DOCTYPE HTML>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Tencent-TGideas">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <!--    <meta http-equiv="pragma" content="no-cache"> 
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate"> 
+    <meta http-equiv="expires" content="0"> -->
+    <link rel="stylesheet" href="css/style.css">
+    <title>中信-公积金网贷</title>
+</head>
+
+<body>
+    <div class="loading">
+        <img class="load_title" src="img/load_title.png">
+        <p>loading <span class="count">0</span>%</p>
+        <div class="progress-bar">
+            <span class="bar"></span>
+        </div>
+        <img class="logo_1" src="img/logo_1.png">
+    </div>
+    <!-- 滑屏 -->
+    <div class="slide">
+        <div class="content">
+            <!-- 1 -->
+            <div class="page">
+                <div class="p1_light_1 opacity1">
+                    <img class="opacity-50" src="img/p1_light_1.png" alt="">
+                </div>
+                <div class="p1_light_2 opacity2 opacity-50">
+                    <img class="opacity-51"  src="img/p1_light_2.png" alt="">
+                </div>
+                <img class="pic-img" src="img/pic_p1.jpg">
+                <!-- 左下部 -->
+                <div class="logo-title">
+                    <img src="img/load_title.png">
+                    <img src="img/logo_1.png">
+                </div>
+                <img class="line" src="img/line.png">
+                <!-- 左下部结束 -->
+                <!-- 文字部分 -->
+                <div class="p_text">
+                    <img class="fadeInLeft1" src="img/p1_text_1.png">
+                    <img  class="fadeInLeft2" src="img/p1_text_2.png">
+                    <img  class="fadeInLeft3" src="img/p1_text_3.png">
+                    <img  class="fadeInLeft4" src="img/p1_text_4.png">
+                    <img class="fadeInLeft5" src="img/p1_text_5.png">
+                </div>
+                <!-- 文字部分 结束-->
+                <div class="triangle">
+                    <img src="img/btn01.png">
+                </div>
+                <div class="flower"></div>
+            </div>
+            <!-- 2 -->
+            <div class="page">
+                <div class="p2_light_dot1 opacity2">
+                    <img class="opacity-52" src="img/p2_light_dot1.png" alt="">
+                </div>
+                <div class="p2_light_dot2 opacity2">
+                    <img class="opacity-53" src="img/p2_light_dot2.png" alt="">
+                </div>
+                <img class="pic-img" src="img/pic_p2.jpg">
+                <!-- 左下部 -->
+                <div class="logo-title">
+                    <img src="img/load_title.png">
+                    <img src="img/logo_1.png">
+                </div>
+                <img class="line" src="img/line.png">
+                <!-- 左下部结束 -->
+                <!-- 文字部分 -->
+                <div class="p_text p2_text">
+                    <img class="fadeInLeft1" src="img/p2_text_1.png">
+                    <img  class="fadeInLeft2" src="img/p2_text_2.png">
+                    <img  class="fadeInLeft3" src="img/p2_text_3.png">
+                    <img  class="fadeInLeft4" src="img/p2_text_4.png">
+                    <img class="fadeInLeft5" src="img/p2_text_5.png">
+                    <img class="fadeInLeft6" src="img/p2_text_6.png">
+                </div>
+                <!-- 文字部分 结束-->
+                <div class="triangle">
+                    <img src="img/btn01.png">
+                </div>
+                <div class="flower"></div>
+            </div>
+            <!-- 3 -->
+            <div class="page">
+                <div class="p3_light_1 opacity1">
+                    <img class="opacity-50" src="img/p3_light_1.png" alt="">
+                </div>
+                <div class="p3_light_2 opacity2 opacity-50">
+                    <img class="opacity-51"  src="img/p3_light_2.png" alt="">
+                </div>
+                <img class="pic-img" src="img/pic_p3.jpg">
+                <!-- <div style="width:100%;overflow:hidden"> -->
+                <!-- 左下部 -->
+                <div class="logo-title">
+                    <img src="img/load_title.png">
+                    <img src="img/logo_1.png">
+                </div>
+                <img class="line" src="img/line.png">
+                <!-- 左下部结束 -->
+                <!-- 文字部分 -->
+                <div class="p_text p3_text">
+                    <img class="fadeInLeft1" src="img/p3_text_1.png">
+                    <img  class="fadeInLeft2" src="img/p3_text_2.png">
+                    <img  class="fadeInLeft3" src="img/p3_text_3.png">
+                    <img  class="fadeInLeft4" src="img/p3_text_4.png">
+                    <img class="fadeInLeft5" src="img/p3_text_5.png">
+                    <img  class="fadeInLeft6" src="img/p3_text_6.png">
+                    <img class="fadeInLeft7" src="img/p3_text_7.png">
+                </div>
+                <!-- </div> -->
+                <div class="triangle">
+                    <img src="img/btn01.png">
+                </div>
+                <div class="flower">
+                  <!--   <img class="motion-flower" src="img/realLeaf1.png" style="left: 706.601px;width: 137.051px; animation: motion-flower 15.31s ease-out 6s infinite;">
+                    <img class="motion-flower"  src="img/realLeaf2.png" style="left: 233.679px;width: 31.5282px; animation: motion-flower 12.31s ease-out 7s infinite;">
+                    <img class="motion-flower"  src="img/realLeaf4.png" style="left: 361.134px;width: 27.0802px; animation: motion-flower 7.31s ease-out 2s infinite;">
+                    <img class="motion-flower"  src="img/realLeaf1.png" style="left: 706.601px;width: 137.051px; animation: motion-flower 6.31s ease-out 2s infinite;">
+                    <img class="motion-flower"  src="img/realLeaf2.png" style="left: 220.49px;width: 194.3px; animation: motion-flower 7.31s ease-out 2s infinite;">
+                    <img  class="motion-flower" src="img/realLeaf1.png" style="left: 116.363px;width: 172px; animation: motion-flower 7.31s ease-out 2s infinite;">
+                    <img class="motion-flower" src="img/realLeaf4.png" style="    left: 538.771px;width: 102.189px; animation: motion-flower 14.31s ease-out 2s infinite;">
+                    <img class="motion-flower" src="img/realLeaf3.png" style="left: 475.022px;width: 20.9711px; animation: motion-flower 7.31s ease-out 2s infinite;">
+                    <img class="motion-flower" src="img/realLeaf2.png" style="left: 185.53px;width: 46.6833px; animation: motion-flower 7.31s ease-out 2s infinite;">
+                    <img class="motion-flower" src="img/realLeaf4.png" style="left: 706.601px;width: 137.051px; animation: motion-flower 15.31s ease-out 6s infinite;">
+                    <img class="motion-flower" src="img/realLeaf1.png" style="left: 571.294px;width: 195.362px; animation: motion-flower 8.31s ease-out 1s infinite;"> -->
+                </div>
+            </div>
+            <!-- 4 -->
+            <div class="page">
+                <div class="p4_light opacity-50">
+                    <img src="img/p4_light_1.png">
+                </div>
+                <div class="p4_logo_fl">
+                    <img class="logo_2" src="img/logo_2.png">
+                    <div class="p4_text">
+                        <img class="translateA_1" src="img/p4_text_1.png">
+                        <img class="translateA_2" src="img/p4_text_2.png">
+                    </div>
+                </div>
+                <img class="p4_logo_fr scaleA" src="img/load_title.png">
+                <img class="p4_box translateC" src="img/p4_box.png">
+                <div class="triangle">
+                    <img src="img/btn01.png">
+                </div>
+            </div>
+            <!-- 5 -->
+            <div class="page">
+                <!--  <img src="img/p5_title.png">
+                <img src="img/p5_text.png"> -->
+                <div class="p5_title translateB_1">
+                    <h2>距离梦想有多近？</h2>
+                    <p>马上试试所在单位</p>
+                    <p>是否具备资格吧</p>
+                </div>
+                <div class="p5_bg">
+                    <div class="input-line fadeInLeft2">
+                        <input type="text" placeholder="请输入单位名称">
+                        <div class="btn-check"><img src="img/p5_btn.png"></div>
+                    </div>
+                    <div class="p5_tip opacity3">
+                        <div class="tip_title">
+                            <h4>温馨提示</h4>
+                        </div>
+                        <p>输入至少四个连续的字进行查询。
+                            <br> 例如单位全称为“广州市住房公积金中心”，
+                            <br> 输入“住房公积金”可以匹配结果，
+                            <br> 输入“广州公积金”将无法匹配结果。
+                        </p>
+                    </div>
+                </div>
+                <div class="triangle">
+                    <img src="img/btn01.png">
+                </div>
+               
+            </div>
+            <!-- 6 -->
+            <div class="page">
+                <div class="dialog-cnt">
+                    <div class="dialog-title">
+                        <h5>提交个人信息</h5>
+                    </div>
+                    
+                    <div class="gray-bg">
+                        <div class="white-bg">
+                            <div class="p6_title opacity1">
+                                <h5>办理条件</h5>
+                            </div>
+                            <div class="p6_text opacity1">
+                                <p>1、公积金缴存满2年的自然人；</p>
+                                <p>2、信用记录良好；</p>
+                                <p>3、公积金缴存单位符合准入条件。</p>
+                            </div>
+                           
+                            <div class="p6_title opacity2">
+                                <h5>填写信息</h5>
+                            </div>
+                            <ul class="input-form opacity2">
+                                <li>
+                                    <input type="text" name="" placeholder="申请人姓名">
+                                </li>
+                                <li>
+                                    <input type="tel" name="" placeholder="联系方式">
+                                </li>
+                                <li>
+                                    <input type="text" name="" placeholder="单位名称">
+                                </li>
+                                <li>
+                                    <select>
+                                        <option>选择城市</option>
+                                        <option>广州</option>
+                                    </select>
+                                </li>
+                                <li>
+                                    <select>
+                                        <option>选择区域</option>
+                                        <option>天河区</option>
+                                    </select>
+                                </li>
+                                <li>
+                                    <select>
+                                        <option>选择网点</option>
+                                        <option></option>
+                                    </select>
+                                </li>
+                            </ul>
+                             <div class="btn-submit scaleA"><img src="img/p6_btn.png"></div>
+                        </div>
+                            
+                       
+                        <img src="img/p5_box_bottow_line.png">
+                    </div>
+                </div>
+                <div class="triangle">
+                    <img src="img/btn01.png">
+                </div>
+            </div>
+            <!-- 7 -->
+            <div class="page">
+                <div class="dialog-cnt">
+                    <div class="dialog-title">
+                        <h5>办理流程</h5>
+                    </div>
+                    <div class="gray-bg">
+                        <div class="white-bg">
+                           <ul class="step-list">
+                               <li class="scale_translateA_1">
+                                   <h3>SETP1</h3>
+                                   <div class="box">
+                                       <p>使用中信银行Ukey登录个人网银，<br>
+                                        点击个人贷款→在线贷款→在线贷<br>
+                                        款申请，选择“我的消费”；</p>
+                                   </div>
+                               </li>
+                               <li class="scale_translateA_2">
+                                   <h3>SETP2</h3>
+                                   <div class="box">
+                                       <p>使用中信银行Ukey登录个人网银，<br>
+                                        点击个人贷款→在线贷款→在线贷<br>
+                                        款申请，选择“我的消费”；</p>
+                                   </div>
+                               </li>
+                               <li class="scale_translateA_3">
+                                   <h3>SETP3</h3>
+                                   <div class="box">
+                                       <p>使用中信银行Ukey登录个人网银，<br>
+                                        点击个人贷款→在线贷款→在线贷<br>
+                                        款申请，选择“我的消费”；</p>
+                                   </div>
+                               </li>
+                           </ul>
+                        </div>
+                    </div>
+                    
+                    <img src="img/p5_box_bottow_line.png">
+                </div>
+               <div class="triangle">
+                    <img src="img/btn01.png">
+                </div>
+            </div>
+            <!-- 8 -->
+            <div class="page">
+                <div class="dialog-cnt">
+                    <div class="dialog-title">
+                        <h5>有奖转发</h5>
+                    </div>
+                    <div class="gray-bg">
+                        <div class="white-bg opacity1">
+                            <div class="p6_title">
+                                <h5>奖励规则</h5>
+                            </div>
+                            <div class="p7_text scale_translateB">
+                                <p> 1. 用户每转发一次可得200个信福豆；</p>
+                                <p>2. 用户每成功邀请一个朋友填写资料可得1000个信福豆；</p>
+                                <p>3. 单个用户得信福豆的上限为5000个；</p>
+                                <p>4. 信福豆可兑换手机流量、水果代金券、爱奇艺会员等丰富礼品，详情点击“礼品中心”查看。</p>
+                            </div>
+                             <a class="btn-submit opacity2"><img src="img/p7_btn.png"></a>
+                        </div>
+
+                    </div>
+                    
+                    <img src="img/p5_box_bottow_line.png">
+                </div>
+               
+            </div>
+            
+            
+        </div>
+    </div>
+    <div class="p-music p-music-on">
+        <img src="img/music.png">
+    </div>
+    <!-- <audio id="audio1" width="420" loop  src="audio.mp3" autoplay="autoplay" preload></audio> -->
+    <!-- -遮罩-->
+    <div class="ui-dialog">
+        <div class="dialog-cnt">
+            <div class="dialog-content">
+                <p>这是内容这是内容这是内容</p>
+            </div>
+            <div class="auto-btn">
+                <div class="btn-yes">确定</div>
+            </div>
+        </div>
+    </div>
+
+
+     <!-- 查询结果1 -->
+                <div id="success-dialog" class="result-dialog">
+                    <div class="dialog-cnt">
+                        <div class="dialog-title">
+                            查询结果
+                        </div>
+                        <div class="result-list">
+                            <ul>
+                                <li>
+                                    <span>中国移动广州越秀区分公司</span>
+                                    <div class="checkbox">
+                                        <input type="radio" name="radio">
+                                        <i></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span>中国移动广州越秀区分公司</span>
+                                    <div class="checkbox">
+                                        <input type="radio" name="radio">
+                                        <i></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span>中国移动广州越秀区分公司</span>
+                                    <div class="checkbox">
+                                        <input type="radio" name="radio">
+                                        <i></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span>中国移动广州越秀区分公司</span>
+                                    <div class="checkbox">
+                                        <input type="radio" name="radio">
+                                        <i></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span>中国移动广州越秀区分公司</span>
+                                    <div class="checkbox">
+                                        <input type="radio" name="radio">
+                                        <i></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span>中国移动广州越秀区分公司</span>
+                                    <div class="checkbox">
+                                        <input type="radio" name="radio">
+                                        <i></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span>中国移动广州越秀区分公司</span>
+                                    <div class="checkbox">
+                                        <input type="radio" name="radio">
+                                        <i></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span>中国移动广州越秀区分公司</span>
+                                    <div class="checkbox">
+                                        <input type="radio" name="radio">
+                                        <i></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span>中国移动广州越秀区分公司</span>
+                                    <div class="checkbox">
+                                        <input type="radio">
+                                        <i></i>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span>中国移动广州越秀区分公司</span>
+                                    <div class="checkbox">
+                                        <input type="radio" name="radio">
+                                        <i></i>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <img src="img/p5_box_bottow_line.png">
+                    </div>
+                    <div class="two-btn">
+                        <a class="btn-confirm" href="#"><img src="img/p5_btn_1.png"></a>
+                        <a class="btn-reset" href="#"><img src="img/p5_btn_2.png"></a>
+                    </div>
+                </div>
+                <!-- 查询结果2 -->
+                <div id="failure-dialog"  class="result-dialog">
+                    <div class="dialog-cnt">
+                        <div class="dialog-title">
+                            查询结果
+                        </div>
+                        
+                        <div class="gray-bg">
+                        <div class="white-bg">
+                            <div class="p7_text">
+                                <p>尊贵的主人，小信暂未与贵单位展开此项业务，请您留下联系方式，小信的小伙计正飞奔在为您服务的路上......</p>
+                                
+                            </div>
+                         
+                        </div>
+                            
+                       
+                        <img src="img/p5_box_bottow_line.png">
+                    </div>
+                    </div>
+                    <div class="two-btn">
+                        <a class="btn-confirm" href="#"><img src="img/p5_btn_1.png"></a>
+                        <a class="btn-reset" href="#"><img src="img/p5_btn_2.png"></a>
+                    </div>
+                </div>
+    <script src="js/zepto.min.js"></script>
+    <script src="js/slide.v2.0.min.js"></script>
+    <script type="text/javascript" src="js/rem.js?v1.0"></script>
+    <script>
+    //  // 初始化资源加载器
+    var resList = [
+        "img/load_title.png",
+        "img/logo_1.png",
+        "img/bg.jpg",
+        "img/line.png",
+        "img/logo_1.png",
+        "img/pic_p1.jpg",
+        "img/p1_light_1.png",
+        "img/p1_light_2.png",
+        "img/p1_text_1.png",
+        "img/p1_text_2.png",
+        "img/p1_text_3.png",
+        "img/p1_text_4.png",
+        "img/p1_text_5.png"
+
+    ];
+
+    // var lock = false;
+    var audio = true;
+    // window.onload = function() {
+    //     if (lock) {
+    //         return;
+    //     }
+    //     lock = true;
+    new mo.Loader(resList, {
+            loadType: 1,
+            minTime: 200,
+            onLoading: function(count, total) {
+                var per = parseInt(count / total * 100);
+                $('.count').html(per); //loading
+                $('.progress-bar span').css('width', per + "%");
+            },
+            onComplete: function(time) {
+                setTimeout(function() {
+                    $('.loading').animate({},
+                        200,
+                        function() {
+                            lock = false;
+                            window.pageSlide = new mo.Slide({
+                                target: $('.slide .page'),
+                                lazy: true,
+                                effect: 'flip',
+                                playTo: 0,
+                                circle: false
+                            });
+
+                            $('.loading').css('display', 'none');
+
+                        });
+                }, 200);
+            }
+        })
+        // }
+
+    // 插入音乐
+    var url = "audio.mp3";
+    window.myAudio = document.createElement("audio");
+    var source = document.createElement("source");
+    myAudio.id = "audio";
+    source.type = "audio/mpeg";
+    source.src = url;
+    source.autoplay = "autoplay";
+    myAudio.appendChild(source);
+    myAudio.play();
+    $('.slide').one('touchstart', function() {
+        if (audio) {
+            myAudio.play();
+        }
+    })
+
+
+    //播放禁止音乐
+    $('.p-music').click(function() {
+        if (myAudio.paused) {
+            myAudio.play();
+            $(this).addClass('p-music-on');
+            audio = true;
+        } else {
+            myAudio.pause();
+            audio = false;
+            $(this).removeClass('p-music-on');
+        }
+    });
+
+    //花瓣
+   window.onload = function(){
+    // var width = document.body.clientWidth;
+    // var height = document.body.clientHeight;   
+    // $('.flower').css({
+    //     'width':width,
+    //     'height':height
+    // })
+        for(var a=0; a<15; a++){
+            var ranLeaf = parseInt(Math.random()*4);
+            $('.flower').append('<img class="motion-flower" src="img/realLeaf'+(ranLeaf+1)+'.png">')
+        }
+        var $img = $('.flower').find('img');
+        var len = $img.length;
+        for(var i=0; i<len; i++){
+            var ranWidth = Math.random()*60+30;
+            var ranLeft = Math.random()*400+100;
+            var time1 = Math.random()*10 + 10;
+            var time2 = Math.random()*11;
+            // var direction = ['left','right'];
+            // if(time2<5){
+                // ranDir = direction[0];
+                // $img.eq(i).css('left',ranLeft +'px');
+                $img.eq(i).css({
+                'width':ranWidth+'px',
+                'left':ranLeft +'px',
+                '-webkit-animation-duration': time1+'s',
+                '-webkit-animation-delay': time2+'s'
+                });
+
+            // }else{
+            //     $img.eq(i).css({
+            //     'width':ranWidth+'px',
+            //     'right':ranLeft +'px',
+            //     '-webkit-animation-duration': time1+'s',
+            //     '-webkit-animation-delay': time2+'s'
+            //     });
+
+            // }
+   }
+        
+             
+        
+    }
+
+    //查询按钮
+    $('.btn-check').click(function(){
+       $('#success-dialog').addClass('show');
+        
+       $('.btn-confirm').click(function(){
+            $('.result-dialog').removeClass('show');
+            window.pageSlide.playTo(5);//播放第五页
+       });
+       $('.btn-reset').click(function(){
+            $('.result-dialog').removeClass('show');
+       });
+
+    });
+    </script>
+</body>
+
+</html>
